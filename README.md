@@ -1,7 +1,7 @@
 # 🗑 FindTrash
-<img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/e55be698-082d-4011-936a-3badbdc30da6">
-<img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/47e7a5d7-c95b-42e5-bb90-42ccf0371150">
-<img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/390720f8-2bf4-4e26-9ada-c483a391e940">
+<img width="140" height ="100" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/571c28f7-cae4-4955-81aa-0ff4012ecdcb">
+<img width="140" height ="100" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/47e7a5d7-c95b-42e5-bb90-42ccf0371150">
+<img width="140" height ="100"alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/390720f8-2bf4-4e26-9ada-c483a391e940">
 
 # ~2022-05-11
 현재위치 추적 구현 (카카오맵 API 활용)
