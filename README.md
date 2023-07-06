@@ -1,4 +1,4 @@
-# FindTrash
+# 🗑 FindTrash
 
 # ~2022-05-11
 현재위치 추적 구현 (카카오맵 API 활용)
