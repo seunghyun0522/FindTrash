@@ -1,5 +1,5 @@
 # 🗑 FindTrash
-![그림1](https://github.com/seunghyun0522/FindTrash/assets/75532258/e55be698-082d-4011-936a-3badbdc30da6)
+<img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/e55be698-082d-4011-936a-3badbdc30da6">
 <img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/47e7a5d7-c95b-42e5-bb90-42ccf0371150">
 <img width="140" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/390720f8-2bf4-4e26-9ada-c483a391e940">
 
