@@ -1,4 +1,6 @@
 # 🗑 FindTrash
+광진구 쓰레기통의 위치 안내와 쓰레기 수거 횟수와 걸음수에 따른 사용자간의 랭킹을 측정하여 환경과 건강 두 마리의 토끼를 잡는 앱
+
 <img width="140" height ="200" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/571c28f7-cae4-4955-81aa-0ff4012ecdcb">
 <img width="140" height="200" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/3d9d491a-2996-47ac-b475-b02a49d88369">
 <img width="140" height ="200" alt="image" src="https://github.com/seunghyun0522/FindTrash/assets/75532258/47e7a5d7-c95b-42e5-bb90-42ccf0371150">
